@@ -1,7 +1,7 @@
 # Pick-and-Place Environment with PyBullet for Reinforcement Learning
 
 **Launch in Google Colab**
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mobile-Robots-Group-UC3M//ReinforcementLearningPickPlace/blob/master/RL_pickandplace.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mobile-Robots-Group-UC3M//ReinforcementLearningPickPlace/blob/master/RL_pickandplace_forcolab.ipynb)
 
 🎥 **Result showcase**
 
